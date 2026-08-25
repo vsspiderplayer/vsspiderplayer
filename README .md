@@ -56,8 +56,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🎮 **PicoCraft** | Minecraft server community website | Node.js, Express, EJS |
-| 💬 **Shafiof** | Real-time messaging web app | Node.js, Socket.IO, WebRTC |
-| 💡 **BoomShidFaam** | Lighting/illumination business website | Node.js, Express |
+| 🤖 **Vexu** | AI assistant project | Python |
+| 🧠 **J.A.R.V.I.S** | AI assistant project | Python |
 
 ---
 
