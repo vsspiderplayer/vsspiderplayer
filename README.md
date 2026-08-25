@@ -58,6 +58,7 @@
 | 🎮 **PicoCraft** | Minecraft server community website | Node.js, Express, EJS |
 | 🤖 **Vexu** | Tool For Create WebSite | JavaScript |
 | 🧠 **J.A.R.V.I.S** | AI assistant project | Node.js , HTML |
+| 🚀 **MeetLite** | Self-hosted video calls, WebRTC-powered 🎥 | Node.js , Socket.io , WebRTC |
 
 ---
 
