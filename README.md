@@ -56,8 +56,8 @@
 | Project | Description | Stack |
 |---|---|---|
 | 🎮 **PicoCraft** | Minecraft server community website | Node.js, Express, EJS |
-| 🤖 **Vexu** | AI assistant project | Python |
-| 🧠 **J.A.R.V.I.S** | AI assistant project | Python |
+| 🤖 **Vexu** | Tool For Create WebSite | JavaScript |
+| 🧠 **J.A.R.V.I.S** | AI assistant project | Node.js , HTML |
 
 ---
 
